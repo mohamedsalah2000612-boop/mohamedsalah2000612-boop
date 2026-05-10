@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Mohamed 👋
 
-<!--
-**mohamedsalah2000612-boop/mohamedsalah2000612-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🎓 I'm a First-year Computer Science student at Zagazig University.
+- 🚀 Passionate about Software Development and Problem Solving.
+- 💻 Currently focusing on **C++**, **OOP**, and **Algorithms**.
+- 🤖 Interested in leveraging AI tools to build better software.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Languages:** C++, Python (Learning)
+- **Tools:** Git, GitHub, VS Code, AI Prompting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Goals
+- Mastering Data Structures.
+- Building cool projects with OpenGL.
+- Contributing to Open Source.
