@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:00c1ff&height=200&section=header&text=Hi,%20I'm%20Mohamed%20Salah%20👋&fontSize=50&animation=fadeIn" width="100%"/>
 
 ### 👨‍💻 About Me
-- 🎓 **First-year CS Student** at Zagazig University.
+- 🎓 **Second-year CS Student at Zagazig University** at Zagazig University.
 - 🚀 Passionate about **Software Development** & **AI**.
 - 🎮 Fun Fact: I love **Football** and **Anime**.
 
